@@ -6,8 +6,10 @@ ScriptsOnlyBuild:
     - GuardController
     - MainMenuController
     - MouseLook
+    - MusicController
     - PauseMenuController
     - PlayerMovement
+    - Timer
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -16,14 +18,6 @@ ScriptsOnlyBuild:
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
-    Unity.Timeline.Editor.dll:
-    - TimelinePreferences
-    - UnityEditor.Timeline.SequenceHierarchy
-    UnityEditor.Graphs.dll:
-    - UnityEditor.Graphs.AnimationBlendTree.Graph
-    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.Graph
-    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -80,35 +74,37 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11790}
+      Script: {instanceID: 11792}
     - Class: 114
-      Script: {instanceID: 12102}
+      Script: {instanceID: 11850}
     - Class: 114
-      Script: {instanceID: 12664}
+      Script: {instanceID: 11952}
     - Class: 114
-      Script: {instanceID: 13268}
+      Script: {instanceID: 12106}
     - Class: 114
-      Script: {instanceID: 13608}
+      Script: {instanceID: 12668}
     - Class: 114
-      Script: {instanceID: 13892}
+      Script: {instanceID: 12866}
     - Class: 114
-      Script: {instanceID: 13978}
+      Script: {instanceID: 12914}
     - Class: 114
-      Script: {instanceID: 14172}
+      Script: {instanceID: 13280}
     - Class: 114
-      Script: {instanceID: 14502}
+      Script: {instanceID: 13620}
     - Class: 114
-      Script: {instanceID: 15420}
+      Script: {instanceID: 13674}
     - Class: 114
-      Script: {instanceID: 15422}
+      Script: {instanceID: 13762}
     - Class: 114
-      Script: {instanceID: 15426}
+      Script: {instanceID: 13908}
     - Class: 114
-      Script: {instanceID: 15428}
+      Script: {instanceID: 13994}
     - Class: 114
-      Script: {instanceID: 15432}
+      Script: {instanceID: 14514}
     - Class: 114
-      Script: {instanceID: 15434}
+      Script: {instanceID: 19192}
+    - Class: 114
+      Script: {instanceID: 19196}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 122
@@ -159,31 +155,29 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11790}
+      Script: {instanceID: 11792}
     - Class: 114
-      Script: {instanceID: 11806}
+      Script: {instanceID: 12106}
     - Class: 114
-      Script: {instanceID: 12102}
+      Script: {instanceID: 12668}
     - Class: 114
-      Script: {instanceID: 12664}
+      Script: {instanceID: 12724}
     - Class: 114
-      Script: {instanceID: 12720}
+      Script: {instanceID: 12934}
     - Class: 114
-      Script: {instanceID: 13268}
+      Script: {instanceID: 13280}
     - Class: 114
-      Script: {instanceID: 13608}
+      Script: {instanceID: 13620}
     - Class: 114
-      Script: {instanceID: 13628}
+      Script: {instanceID: 13640}
     - Class: 114
-      Script: {instanceID: 13892}
+      Script: {instanceID: 13908}
     - Class: 114
-      Script: {instanceID: 13978}
+      Script: {instanceID: 13994}
     - Class: 114
-      Script: {instanceID: 14214}
+      Script: {instanceID: 14228}
     - Class: 114
-      Script: {instanceID: 14502}
-    - Class: 114
-      Script: {instanceID: 15430}
+      Script: {instanceID: 14514}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -221,6 +215,12 @@ ScriptsOnlyBuild:
     className: AudioPlayableAsset
   - hash:
       serializedVersion: 2
+      Hash: 66b142021d5112dab4c2a0c54e5f54af
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AboutMenuController
+  - hash:
+      serializedVersion: 2
       Hash: 4298152c7490141086c39d1836a5a43a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -231,6 +231,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.ProBuilder.dll
     namespaceName: UnityEngine.ProBuilder
     className: PreferenceDictionary
+  - hash:
+      serializedVersion: 2
+      Hash: 593946ca2ce45291ef349da5342aced4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GuardController
   - hash:
       serializedVersion: 2
       Hash: e7a73f5f78ba6445195ec23b74a1ce2d
@@ -419,6 +425,30 @@ ScriptsOnlyBuild:
     className: Selectable
   - hash:
       serializedVersion: 2
+      Hash: e1bf0321a489d0ef3731d738f03309fa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Rotator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameController
+  - hash:
+      serializedVersion: 2
+      Hash: e9539b36af987b1fc4d5169f5d2f3d29
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PauseMenuController
+  - hash:
+      serializedVersion: 2
+      Hash: bdccccd6b04d793fa9b506b93da106af
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainMenuController
+  - hash:
+      serializedVersion: 2
       Hash: b3ab2106268377ffe25dd18ac23dca28
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -539,6 +569,12 @@ ScriptsOnlyBuild:
     className: Physics2DRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 655675a941ea756088027703b43352a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MouseLook
+  - hash:
+      serializedVersion: 2
       Hash: c1933cc0a2f4ff6eb13333347497beb3
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -549,6 +585,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.ProBuilder.dll
     namespaceName: UnityEngine.ProBuilder
     className: Entity
+  - hash:
+      serializedVersion: 2
+      Hash: 82a3e78aee60460c3b58d6f15b02f0a0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerMovement
   - hash:
       serializedVersion: 2
       Hash: e4aac510b698bae77a5dbde189fe88e5
@@ -683,52 +725,16 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 66b142021d5112dab4c2a0c54e5f54af
+      Hash: 17de51359c1c07746866244724db4b21
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: AboutMenuController
+    className: Timer
   - hash:
       serializedVersion: 2
-      Hash: 593946ca2ce45291ef349da5342aced4
+      Hash: da139b6659b13b68ddbc4112f21c8bad
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: GuardController
-  - hash:
-      serializedVersion: 2
-      Hash: e1bf0321a489d0ef3731d738f03309fa
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Rotator
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameController
-  - hash:
-      serializedVersion: 2
-      Hash: e9539b36af987b1fc4d5169f5d2f3d29
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PauseMenuController
-  - hash:
-      serializedVersion: 2
-      Hash: bdccccd6b04d793fa9b506b93da106af
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MainMenuController
-  - hash:
-      serializedVersion: 2
-      Hash: 655675a941ea756088027703b43352a4
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MouseLook
-  - hash:
-      serializedVersion: 2
-      Hash: 82a3e78aee60460c3b58d6f15b02f0a0
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlayerMovement
+    className: MusicController
   platform: 19
   scenePathNames:
   - Assets/Scenes/MainMenu.unity

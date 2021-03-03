@@ -31,7 +31,6 @@ public class GuardController : MonoBehaviour
 
         if (hit.collider != null)
         {
-            Debug.Log("Ray hit something...");
             if (seesObject)
             {
                 PMS = hit.collider.GetComponent<PlayerMovement>();
