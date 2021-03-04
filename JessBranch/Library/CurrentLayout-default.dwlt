@@ -20,8 +20,13 @@ MonoBehaviour:
     height: 1007
   m_ShowMode: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: Hierarchy
   m_RootView: {fileID: 6}
+=======
+  m_Title: Project
+  m_RootView: {fileID: 3}
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
   m_Title: Project
   m_RootView: {fileID: 3}
@@ -62,6 +67,9 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
   m_EditorHideFlags: 1
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
@@ -100,6 +108,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1466
     y: 0
     width: 454
@@ -113,6 +122,8 @@ MonoBehaviour:
   m_LastSelected: 0
 --- !u!114 &4
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
     x: 0
     y: 0
     width: 1920
@@ -124,6 +135,9 @@ MonoBehaviour:
   m_MainToolbar: {fileID: 21}
   m_LastLoadedLayoutName: 
 --- !u!114 &5
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,6 +183,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 18
 --- !u!114 &6
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -205,6 +222,9 @@ MonoBehaviour:
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
 --- !u!114 &7
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,9 +239,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 7}
   - {fileID: 2}
   - {fileID: 8}
+=======
+  - {fileID: 11}
+  - {fileID: 12}
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
   - {fileID: 11}
   - {fileID: 12}
@@ -230,6 +255,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     width: 1920
     height: 1007
@@ -241,6 +267,8 @@ MonoBehaviour:
   m_BottomViewHeight: 20
 --- !u!114 &7
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
     width: 748
     height: 957
   m_MinSize: {x: 201, y: 442}
@@ -248,6 +276,9 @@ MonoBehaviour:
   vertical: 1
   controlID: 86
 --- !u!114 &8
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -266,6 +297,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
     height: 30
   m_MinSize: {x: 0, y: 0}
@@ -276,6 +308,8 @@ MonoBehaviour:
   m_LastLoadedLayoutName: 
 --- !u!114 &8
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
     width: 322
     height: 957
   m_MinSize: {x: 202, y: 221}
@@ -286,6 +320,9 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &9
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,6 +339,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 987
     width: 1920
@@ -310,6 +348,8 @@ MonoBehaviour:
   m_MaxSize: {x: 0, y: 0}
 --- !u!114 &9
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
     x: 1070
     y: 0
     width: 411
@@ -322,6 +362,9 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &10
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -367,6 +410,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1466
     height: 567
   m_MinSize: {x: 403, y: 221}
@@ -375,6 +419,8 @@ MonoBehaviour:
   controlID: 16
 --- !u!114 &11
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
     width: 748
     height: 491
   m_MinSize: {x: 201, y: 221}
@@ -645,6 +691,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
 --- !u!114 &18
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -666,11 +715,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 640
     width: 1465
     height: 369
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
     x: 2990
     y: 73
     width: 409
@@ -698,7 +750,11 @@ MonoBehaviour:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Jess\Desktop\HallwayRepo\hallway\JessBranch
+=======
+  m_LastProjectPath: C:\Users\Jess\Desktop\Project 2
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
   m_LastProjectPath: C:\Users\Jess\Desktop\Project 2
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -707,9 +763,15 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 2a3a0000
     m_LastClickedID: 14890
     m_ExpandedIDs: 00000000e2390000e4390000e6390000e8390000ea390000ec39000000ca9a3b
+=======
+    m_SelectedIDs: 9e3a0000
+    m_LastClickedID: 15006
+    m_ExpandedIDs: 000000008a3a00008c3a00008e3a0000903a0000923a0000943a0000963a000000ca9a3b
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
     m_SelectedIDs: 9e3a0000
     m_LastClickedID: 15006
@@ -743,7 +805,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000e2390000e4390000e6390000e8390000ea390000ec390000
+=======
+    m_ExpandedIDs: 000000008a3a00008c3a00008e3a0000903a0000923a0000943a0000963a0000
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
     m_ExpandedIDs: 000000008a3a00008c3a00008e3a0000903a0000923a0000943a0000963a0000
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -775,7 +841,11 @@ MonoBehaviour:
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedInstanceIDs: c6230000
+=======
+    m_ExpandedInstanceIDs: f45b0000d45900001a4a00009652000096400000383d0000403d0000fa430000f43b0000de500000343d0000
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
     m_ExpandedInstanceIDs: f45b0000d45900001a4a00009652000096400000383d0000403d0000fa430000f43b0000de500000343d0000
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -795,7 +865,11 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 0}
+=======
+      m_ClientGUIView: {fileID: 9}
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
       m_ClientGUIView: {fileID: 9}
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -809,6 +883,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_DirectoriesAreaWidth: 207
 --- !u!114 &13
@@ -854,6 +929,10 @@ MonoBehaviour:
   m_DirectoriesAreaWidth: 137
 --- !u!114 &19
 >>>>>>> parent of 825b420 (Thurs Update)
+=======
+  m_DirectoriesAreaWidth: 137
+--- !u!114 &19
+>>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -868,6 +947,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Text: Hierarchy
     m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
@@ -910,6 +990,8 @@ MonoBehaviour:
   m_WindowGUID: 4c969a2b90040154d917609493e03593
 --- !u!114 &15
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
     m_Text: Game
     m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
@@ -985,6 +1067,9 @@ MonoBehaviour:
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
 --- !u!114 &20
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1008,8 +1093,13 @@ MonoBehaviour:
     x: 363
     y: 73
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1101
     height: 546
+=======
+    width: 747
+    height: 470
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
     width: 747
     height: 470
@@ -1027,9 +1117,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0, y: 1, z: -8.2}
     speed: 2
     m_Value: {x: 0.0000012380689, y: 1.0000006, z: -8.200003}
+=======
+    m_Target: {x: 333.44507, y: 199.82791, z: -93.52678}
+    speed: 2
+    m_Value: {x: 333.44507, y: 199.82791, z: -93.52678}
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
     m_Target: {x: 333.44507, y: 199.82791, z: -93.52678}
     speed: 2
@@ -1086,9 +1182,15 @@ MonoBehaviour:
     m_Value: {x: -0.25439003, y: 0.601313, z: -0.21021323, w: -0.7276815}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 6.324445
     speed: 2
     m_Value: 6.624445
+=======
+    m_Target: 237.88812
+    speed: 2
+    m_Value: 237.88812
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
     m_Target: 237.88812
     speed: 2
@@ -1112,7 +1214,11 @@ MonoBehaviour:
     m_DynamicClip: 1
     m_OcclusionCulling: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+=======
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -1122,6 +1228,7 @@ MonoBehaviour:
   m_SceneVisActive: 1
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &16
 MonoBehaviour:
@@ -1238,6 +1345,9 @@ MonoBehaviour:
     height: 369
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &18
+=======
+--- !u!114 &21
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
 --- !u!114 &21
 >>>>>>> parent of 825b420 (Thurs Update)

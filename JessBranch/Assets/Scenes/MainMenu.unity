@@ -124,7 +124,11 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &108114482
+=======
+--- !u!1 &170333720
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
 --- !u!1 &170333720
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -136,23 +140,30 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 108114483}
   - component: {fileID: 108114485}
   - component: {fileID: 108114484}
   m_Layer: 5
   m_Name: ExitGameButtonText
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
   - component: {fileID: 170333721}
   - component: {fileID: 170333723}
   - component: {fileID: 170333722}
   m_Layer: 5
   m_Name: Text (TMP)
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!224 &108114483
 RectTransform:
@@ -370,6 +381,8 @@ Light:
 --- !u!4 &176908897
 Transform:
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
 --- !u!224 &170333721
 RectTransform:
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -589,8 +602,11 @@ CanvasRenderer:
   m_GameObject: {fileID: 275143978}
   m_CullTransparentMesh: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &380443400
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
 --- !u!1 &230181654
 >>>>>>> parent of 825b420 (Thurs Update)
 GameObject:
@@ -636,9 +652,12 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 0.000011444, y: 0}
   m_SizeDelta: {x: 230.55457, y: 56}
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
   m_AnchoredPosition: {x: 6.8020325, y: -7.449341}
   m_SizeDelta: {x: 500, y: 100}
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -698,9 +717,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
         m_CallState: 1
 --- !u!114 &380443403
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
         m_CallState: 2
 --- !u!114 &230181657
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -955,6 +977,9 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!114 &330018155
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -962,7 +987,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 425506411}
+=======
+  m_GameObject: {fileID: 330018154}
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
   m_GameObject: {fileID: 330018154}
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -971,6 +1000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Material: {fileID: 0}
   m_Color: {r: 0.6698113, g: 0.6698113, b: 0.6698113, a: 1}
@@ -1031,13 +1061,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 =======
 >>>>>>> parent of 825b420 (Thurs Update)
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
   m_IgnoreReversedGraphics: 1
   m_BlockingObjects: 0
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &783706165
+=======
+--- !u!114 &330018156
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
 --- !u!114 &330018156
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -1095,11 +1131,16 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 865690724}
   - {fileID: 1468571391}
   - {fileID: 380443401}
   - {fileID: 425506412}
   - {fileID: 1542695904}
+=======
+  - {fileID: 202132331}
+  - {fileID: 1954932281}
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
   - {fileID: 202132331}
   - {fileID: 1954932281}
@@ -1112,6 +1153,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &790749868
 GameObject:
@@ -1160,6 +1202,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &839425036
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
 --- !u!1 &483935669
 >>>>>>> parent of 825b420 (Thurs Update)
 GameObject:
@@ -1401,6 +1445,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &685526392
+<<<<<<< HEAD
 >>>>>>> parent of 825b420 (Thurs Update)
 GameObject:
   m_ObjectHideFlags: 0
@@ -1534,6 +1579,8 @@ CanvasRenderer:
   m_GameObject: {fileID: 961043008}
   m_CullTransparentMesh: 0
 --- !u!1 &1015967241
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1687,6 +1734,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 1015967241}
   m_CullTransparentMesh: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1389902498
 GameObject:
   m_ObjectHideFlags: 0
@@ -1813,6 +1861,9 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 --- !u!1 &1468571390
+=======
+--- !u!1 &1213810335
+>>>>>>> parent of 825b420 (Thurs Update)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1820,22 +1871,37 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1468571391}
   - component: {fileID: 1468571393}
   - component: {fileID: 1468571392}
   m_Layer: 5
   m_Name: Main Menu Text
+=======
+  - component: {fileID: 1213810336}
+  - component: {fileID: 1213810339}
+  - component: {fileID: 1213810338}
+  - component: {fileID: 1213810337}
+  - component: {fileID: 1213810340}
+  m_Layer: 5
+  m_Name: PlayButton
+>>>>>>> parent of 825b420 (Thurs Update)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!224 &1468571391
+=======
+--- !u!224 &1213810336
+>>>>>>> parent of 825b420 (Thurs Update)
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1468571390}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -1867,11 +1933,29 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1213810337
 >>>>>>> parent of 825b420 (Thurs Update)
+=======
+  m_GameObject: {fileID: 1213810335}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 71.74148}
+  m_LocalScale: {x: 0.3890625, y: 0.3890625, z: 0.3890625}
+  m_Children:
+  - {fileID: 727084853}
+  m_Father: {fileID: 1954932281}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 6.8020325, y: 36.592533}
+  m_SizeDelta: {x: 500, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1213810337
+>>>>>>> parent of 825b420 (Thurs Update)
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1468571390}
   m_Enabled: 1
@@ -2495,6 +2579,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
 >>>>>>> parent of 825b420 (Thurs Update)
+=======
+  m_GameObject: {fileID: 1213810335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+>>>>>>> parent of 825b420 (Thurs Update)
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -2507,10 +2596,13 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.754717, g: 0.754717, b: 0.754717, a: 1}
     m_PressedColor: {r: 0.5660378, g: 0.5660378, b: 0.5660378, a: 1}
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
     m_NormalColor: {r: 0.6132076, g: 0.5756052, b: 0.5756052, a: 0}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 0.4117647}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.53333336}
@@ -2532,6 +2624,7 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetGraphic: {fileID: 1542695906}
   m_OnClick:
     m_PersistentCalls:
@@ -2539,6 +2632,15 @@ MonoBehaviour:
       - m_Target: {fileID: 790749869}
         m_TargetAssemblyTypeName: MainMenuController, Assembly-CSharp
         m_MethodName: Exit
+=======
+  m_TargetGraphic: {fileID: 1213810338}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1213810340}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: StartGame
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
   m_TargetGraphic: {fileID: 1213810338}
   m_OnClick:
@@ -2558,7 +2660,11 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &1542695906
+=======
+--- !u!114 &1213810338
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
 --- !u!114 &1213810338
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -2568,7 +2674,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1542695903}
+=======
+  m_GameObject: {fileID: 1213810335}
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
   m_GameObject: {fileID: 1213810335}
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -2579,7 +2689,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Color: {r: 0.6698113, g: 0.6698113, b: 0.6698113, a: 1}
+=======
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> parent of 825b420 (Thurs Update)
 =======
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 >>>>>>> parent of 825b420 (Thurs Update)
@@ -2599,6 +2713,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!222 &1542695907
 =======
@@ -2774,15 +2889,29 @@ MonoBehaviour:
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1631427352
+=======
+--- !u!222 &1213810339
+>>>>>>> parent of 825b420 (Thurs Update)
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1631427349}
   m_CullTransparentMesh: 0
 --- !u!1 &1653266860
 =======
+=======
+  m_GameObject: {fileID: 1213810335}
+  m_CullTransparentMesh: 0
+--- !u!114 &1213810340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 825b420 (Thurs Update)
   m_GameObject: {fileID: 1213810335}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -2833,8 +2962,11 @@ Camera:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1653266860}
 =======
+=======
+>>>>>>> parent of 825b420 (Thurs Update)
   m_GameObject: {fileID: 1852938494}
 >>>>>>> parent of 825b420 (Thurs Update)
   m_Enabled: 1
@@ -3014,4 +3146,7 @@ Transform:
   m_Father: {fileID: 330018158}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of 825b420 (Thurs Update)
+=======
 >>>>>>> parent of 825b420 (Thurs Update)
