@@ -5,14 +5,19 @@ using TMPro;
 
 public class Timer : MonoBehaviour
 {
-    public float timeRemaining = 10.0f;
+    [Tooltip("The amount of time the player has to complete the game.")]
+    public float timeRemaining;
     private bool timerRunning = true;
+    [Tooltip("The text object that the remaining time is displayed with.")]
     public TextMeshProUGUI timerText;
+    [Tooltip("The text object that losing is displayed with. Currently just for prototyping, this will be replaced with an actual 'game over' canvas in the future.")]
     public TextMeshProUGUI lossText;
     float seconds = 10.0f;
+    [Tooltip("The 'gameController' game object, e.g. the empty game object that should be handling basic things like closing via ESC.")]
     public GameObject gameController;
+    [Tooltip("The 'musicController' game object, e.g. the empty game object that should be handling music.")]
     public GameObject musicController;
-    bool gameOver = false;
+    private bool gameOver = false;
     private bool victory;
     private bool alreadyPlayedMusic = false;
 

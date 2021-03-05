@@ -28,7 +28,12 @@ public class PauseMenuController : MonoBehaviour
         // game is already paused)
         if (Input.GetKeyDown(KeyCode.P))
         {
-            isPaused = !isPaused;
+            if (isPaused == true)
+                isPaused = false;
+            else if (isPaused == false)
+                isPaused = true;
+            //isPaused = !isPaused;
+            Debug.Log("Checking if the game is paused from inside of the Pause Menu Controller: " + GetIsPaused());
             if ( about )
                 about = false;
         }
